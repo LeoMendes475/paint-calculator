@@ -1,10 +1,14 @@
+# Digital repuclic code chalenge
+
+Desafio de código para Digital repuclic
+
 # Pré-requisitos
 
 É necessário possuir o Node.js na versão `v18.15.0`
 
 ## Objetivo
 
-O objetivo da aplicação é ajudar o usuario a calcular a quantidade de tinta necessária para pintar uma sala
+O objetivo da aplicação é ajudar o usuario a calcular a quantidade de tinta necessária para pintar uma sala.
 
 ## Instruções
 
