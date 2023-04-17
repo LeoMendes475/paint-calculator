@@ -1,6 +1,6 @@
 # Pré-requisitos
 
-é necessário possuir o Node.js na versão `v18.15.0`
+É necessário possuir o Node.js na versão `v18.15.0`
 
 ## Objetivo
 
