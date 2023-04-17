@@ -1,6 +1,6 @@
 # Pré-requisitos
 
-O BackEnd do projeto foi criado usando Node.js `v18.15.0`
+é necessário possuir o Node.js na versão `v18.15.0`
 
 ## Objetivo
 
