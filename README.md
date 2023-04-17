@@ -1,6 +1,6 @@
-# Digital repuclic code chalenge
+# Digital republic code chalenge
 
-Desafio de código para Digital repuclic
+Desafio de código para Digital republic
 
 # Pré-requisitos
 
