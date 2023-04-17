@@ -1,0 +1,15 @@
+button {
+    background-color: #5b2ed9;
+    color: #fff;
+    padding: 10px 45px;
+    margin-top: 20px;
+    border-radius: 12px;
+    border: 1px solid #ccc;
+    transition: all 0.4s cubic-bezier(0.215, 0.61, 0.355, 1) 0s;
+    cursor: pointer;
+}
+
+button:hover {
+    color: #000 !important;
+	background-color: transparent;
+}
