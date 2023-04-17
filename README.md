@@ -8,7 +8,7 @@ O objetivo da aplicação é ajudar o usuario a calcular a quantidade de tinta n
 
 ## Instruções
 
-1. Execute o comando `npm install` para instalar as dependências do noded
+1. Execute o comando `npm install` para instalar as dependências do Node
 2. Execute o comando `npm i install --save-dev eslint` para instalar as dependências do Eslint
 3. Execute o comando `npm run dev` para iniciar a aplicação
 
