@@ -1,7 +1,3 @@
-# Digital republic code chalenge
-
-Desafio de código para Digital republic
-
 # Pré-requisitos
 
 É necessário possuir o Node.js na versão `v18.15.0`
